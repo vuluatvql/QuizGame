@@ -1,1 +1,2 @@
-#Quiz game using Vue
+#Simple quiz game using Vue
+#
